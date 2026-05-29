@@ -5,6 +5,8 @@
 - **Tipo de Problema**: Classificação Binária
 - **Modelos**: Regressão Logística vs. XGBoost
 - **Deploy**: Aplicação Streamlit interativa
+- **Link do Projeto para Testar**: 
+https://generativeai-gs-2026-tlnwavqc7kdgimu3dmnpqp.streamlit.app/
 
 Este projeto implementa uma pipeline completa de Machine Learning para prever se um asteroide é viável para operações de mineração espacial, baseado em características orbitais, composição química, parâmetros econômicos e tecnológicos.
 
