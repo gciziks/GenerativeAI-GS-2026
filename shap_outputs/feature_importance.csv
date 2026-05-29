@@ -1,0 +1,15 @@
+feature,mean_abs_shap
+delta_v_km_s,2.4800653
+metal_concentration_pct,1.6494619
+water_ice_content_pct,0.77548635
+orbital_period_years,0.36704338
+distance_au,0.356845
+extraction_tech_readiness,0.33794412
+spin_rate_hours,0.2783861
+estimated_market_value_usd,0.2725549
+asteroid_diameter_km,0.22741105
+regulatory_risk_score,0.212881
+asteroid_mass_kg,0.1986208
+composition_type_S-type,0.090730555
+composition_type_M-type,0.054829925
+composition_type_C-type,0.015760731
