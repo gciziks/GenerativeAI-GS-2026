@@ -1,6 +1,14 @@
 # Global Solution - Generative AI
 ###  Classificador de Viabilidade de Mineração em Asteroides
 
+## Grupo
+- Gabriel Ciziks - RM98215
+- Victor Nuzzi - RM98209
+- Lucca Sabatini - RM98169
+- Cassio Valezzi - RM551059
+
+---
+
 ## Visão Geral do Projeto
 - **Tipo de Problema**: Classificação Binária
 - **Modelos**: Regressão Logística vs. XGBoost
