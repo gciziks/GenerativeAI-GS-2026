@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+data/raw/*.csv
+data/processed/*.csv
+models/*.pkl
+shap_outputs/*.png
+shap_outputs/*.csv
+shap_outputs/*.npy
+.streamlit/
+.DS_Store
+Thumbs.db
